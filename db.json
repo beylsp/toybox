@@ -899,6 +899,66 @@
             "track": "Monte-Carlo",
             "result": "DNPQ"
         }
+      },
+      { 
+        "id": 31,
+        "product": {
+            "name": "S3126",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "McLaren",
+          "entrant": "Antique Automobiles Racing Team",
+          "year": "1969",
+          "type": "M7B",
+          "designer": "Robin Herd"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Vic Elford",
+              "short": "V. Elford",
+              "lastname": "Elford",
+              "nationality": "Great Britain"
+            },
+            "venue": "Holland",
+            "track": "Zandvoort",
+            "result": "10th"
+        }
+      },
+      { 
+        "id": 32,
+        "product": {
+            "name": "S3127",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "McLaren",
+          "entrant": "Antique Automobiles Racing Team",
+          "year": "1969",
+          "type": "M7B",
+          "designer": "Robin Herd"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Vic Elford",
+              "short": "V. Elford",
+              "lastname": "Elford",
+              "nationality": "Great Britain"
+            },
+            "venue": "France",
+            "track": "Clermont-Ferrand",
+            "result": "5th"
+        }
       }
     ]
   }
