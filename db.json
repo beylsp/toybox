@@ -1019,6 +1019,126 @@
             "track": "Monte Carlo",
             "result": "DNF"
         }
+      },
+      {
+        "id": 35,
+        "product": {
+            "name": "S7104",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Brabham",
+          "entrant": "Fila Sport",
+          "year": "1983",
+          "type": "BT52",
+          "designer": "Gordon Murray"
+        },
+        "engine": {
+            "make": "BMW",
+            "configuration": "L4T"
+        },
+        "entry": {
+            "driver": {
+              "name": "Nelson Piquet",
+              "short": "N. Piquet",
+              "lastname": "Piquet",
+              "nationality": "Brazil"
+            },
+            "venue": "Brazil",
+            "track": "Rio de Janeiro",
+            "result": "1st"
+        }
+      },
+      {
+        "id": 36,
+        "product": {
+            "name": "S7105",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Brabham",
+          "entrant": "Fila Sport",
+          "year": "1983",
+          "type": "BT52",
+          "designer": "Gordon Murray"
+        },
+        "engine": {
+            "make": "BMW",
+            "configuration": "L4T"
+        },
+        "entry": {
+            "driver": {
+              "name": "Riccardo Patrese",
+              "short": "R. Patrese",
+              "lastname": "Patrese",
+              "nationality": "Italy"
+            },
+            "venue": "Brazil",
+            "track": "Rio de Janeiro",
+            "result": "DNF"
+        }
+      },
+      {
+        "id": 37,
+        "product": {
+            "name": "S3504",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Brabham",
+          "entrant": "Team Gunston",
+          "year": "1968",
+          "type": "BT20",
+          "designer": "Ron Tauranac"
+        },
+        "engine": {
+            "make": "Repco",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "John Love",
+              "short": "J. Love",
+              "lastname": "Love",
+              "nationality": "Rhodesia"
+            },
+            "venue": "South Africa",
+            "track": "Kyalami",
+            "result": "9th"
+        }
+      },
+      {
+        "id": 38,
+        "product": {
+            "name": "S5930",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Williams",
+          "entrant": "Frank Williams Racing Cars",
+          "year": "1975",
+          "type": "FW04",
+          "designer": "Ray Stokoe"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Lella Lombardi",
+              "short": "L. Lombardi",
+              "lastname": "Lombardi",
+              "nationality": "Italy"
+            },
+            "venue": "United States",
+            "track": "Watkins Glen",
+            "result": "DNS"
+        }
       }
     ]
   }
