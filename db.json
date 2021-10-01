@@ -1139,6 +1139,66 @@
             "track": "Watkins Glen",
             "result": "DNS"
         }
+      },
+      {
+        "id": 39,
+        "product": {
+            "name": "S7145",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "McLaren",
+          "entrant": "Yardley Team McLaren",
+          "year": "1973",
+          "type": "M23",
+          "designer": "Gordon Coppuck"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Jacky Ickx",
+              "short": "J. Ickx",
+              "lastname": "Ickx",
+              "nationality": "Belgium"
+            },
+            "venue": "Germany",
+            "track": "Nurburgring",
+            "result": "3rd"
+        }
+      },
+      {
+        "id": 40,
+        "product": {
+            "name": "S5264",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Brabham",
+          "entrant": "Brabham Racing Organisation",
+          "year": "1967",
+          "type": "BT24",
+          "designer": "Ron Tauranac"
+        },
+        "engine": {
+            "make": "Repco",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Jack Brabham",
+              "short": "J. Brabham",
+              "lastname": "Brabham",
+              "nationality": "Australia"
+            },
+            "venue": "Italy",
+            "track": "Monza",
+            "result": "2nd"
+        }
       }
     ]
   }
