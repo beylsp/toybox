@@ -1199,6 +1199,66 @@
             "track": "Monza",
             "result": "2nd"
         }
-      }
+      },
+      {
+        "id": 41,
+        "product": {
+            "name": "S5353",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Lotus",
+          "entrant": "John Player Team Lotus",
+          "year": "1982",
+          "type": "91",
+          "designer": "Martin Ogilvie"
+        },
+        "engine": {
+            "make": "Cosworth",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Nigel Mansell",
+              "short": "N. Mansell",
+              "lastname": "Mansell",
+              "nationality": "Great Britain"
+            },
+            "venue": "Great Britain",
+            "track": "Brands Hatch",
+            "result": "DNF"
+        }
+      },
+      {
+        "id": 42,
+        "product": {
+            "name": "S7097",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Brabham",
+          "entrant": "Martini Racing (Brabham)",
+          "year": "1976",
+          "type": "BT45",
+          "designer": "Gordon Murray"
+        },
+        "engine": {
+            "make": "Alfa Romeo",
+            "configuration": "F12"
+        },
+        "entry": {
+            "driver": {
+              "name": "Larry Perkins",
+              "short": "L. Perkins",
+              "lastname": "Perkins",
+              "nationality": "Australia"
+            },
+            "venue": "Canada",
+            "track": "Mosport Park",
+            "result": "17th"
+        }
+      } 
     ]
-  }
+}
