@@ -1259,6 +1259,126 @@
             "track": "Mosport Park",
             "result": "17th"
         }
-      } 
+      },
+      {
+        "id": 43,
+        "product": {
+            "name": "S5381",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Matra",
+          "entrant": "Matra International",
+          "year": "1968",
+          "type": "MS10",
+          "designer": "Gérard Ducarouge"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Johnny Servoz-Gavin",
+              "short": "J. Servoz-Gavin",
+              "lastname": "Servoz-Gavin",
+              "nationality": "France"
+            },
+            "venue": "Italy",
+            "track": "Monza",
+            "result": "2nd"
+        }
+      },
+      {
+        "id": 44,
+        "product": {
+            "name": "S4817",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Ligier",
+          "entrant": "Equipe Talbot Gitanes",
+          "year": "1982",
+          "type": "JS19",
+          "designer": "Michel Beaujon"
+        },
+        "engine": {
+            "make": "Talbot",
+            "configuration": "V12"
+        },
+        "entry": {
+            "driver": {
+              "name": "Jacques Laffite",
+              "short": "J. Laffite",
+              "lastname": "Laffite",
+              "nationality": "France"
+            },
+            "venue": "Monaco",
+            "track": "Monte-Carlo",
+            "result": "DNF"
+        }
+      },
+      {
+        "id": 46,
+        "product": {
+            "name": "S3958",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Ensign",
+          "entrant": "...",
+          "year": "1979",
+          "type": "N179",
+          "designer": "John Baldwin"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Derek Daly",
+              "short": "D. Daly",
+              "lastname": "Daly",
+              "nationality": "Ireland"
+            },
+            "venue": "United States",
+            "track": "Long Beach",
+            "result": "DNF"
+        }
+      },
+      {
+        "id": 47,
+        "product": {
+            "name": "S3512",
+            "manufacturer": "Spark Model",
+            "scale": "1:43"
+        },
+        "model": {
+          "make": "Cooper",
+          "entrant": "John M Wyatt III",
+          "year": "1961",
+          "type": "T53",
+          "designer": "Owen Maddock"
+        },
+        "engine": {
+            "make": "Ford",
+            "configuration": "V8"
+        },
+        "entry": {
+            "driver": {
+              "name": "Roger Penske",
+              "short": "R. Penske",
+              "lastname": "Penske",
+              "nationality": "United States"
+            },
+            "venue": "United States",
+            "track": "Watkins Glen",
+            "result": "8th"
+        }
+      }
     ]
 }
